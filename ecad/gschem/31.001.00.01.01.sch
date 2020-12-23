@@ -12,7 +12,7 @@ page=01
 T 11500 600 5 10 1 1 0 0 1
 pages=01
 T 13900 900 5 10 1 1 0 0 1
-revision=20201216
+revision=20201223
 T 13900 600 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 10000 1400 5 10 1 1 0 0 1
@@ -114,11 +114,4 @@ T 8400 2600 5 10 0 0 0 0 1
 symversion=20180915
 T 8400 2800 5 10 0 0 0 0 1
 footprint=CC-BY-SA.fp
-}
-C 8300 1300 1 0 0 Made_in_NL.sym
-{
-T 8400 2300 5 10 0 0 0 0 1
-symversion=20180915
-T 8400 2500 5 10 0 0 0 0 1
-footprint=NL_contour_filled_150x188.fp
 }

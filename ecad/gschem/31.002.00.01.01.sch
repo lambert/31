@@ -952,3 +952,31 @@ symversion=20090501
 T 5450 10550 5 10 1 1 0 0 1
 refdes=TP201
 }
+C 24600 1300 1 0 0 EMBEDDEDCC-BY-SA.sym
+[
+B 24700 1400 800 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 24700 2500 5 10 0 0 0 0 1
+footprint=CC-BY-SA.fp
+T 24700 2700 5 10 0 0 0 0 1
+graphical=1
+T 24700 2300 5 10 0 0 0 0 1
+symversion=20180915
+T 24700 2900 5 10 0 0 0 0 1
+use-license=unlimited
+T 24700 3100 5 10 0 0 0 0 1
+dist-license=CC BY-SA
+T 24700 3300 5 10 0 0 0 0 1
+description=Input label
+T 24700 3500 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 25100 1500 9 8 1 0 0 4 1
+CC BY-SA
+]
+{
+T 24700 2300 5 10 0 0 0 0 1
+symversion=20180915
+T 24700 2500 5 10 0 0 0 0 1
+footprint=CC-BY-SA.fp
+T 24600 1300 5 10 0 0 0 0 1
+refdes=cc
+}
