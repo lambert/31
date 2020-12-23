@@ -1,0 +1,15 @@
+G04 start of page 11 for group -4014 idx -4014 *
+G04 Title: 31.001.00.01.01.pcb, bottompaste *
+G04 Creator: pcb 4.2.1 *
+G04 CreationDate: Wed Dec 23 16:06:14 2020 UTC *
+G04 For: bert *
+G04 Format: Gerber/RS-274X *
+G04 PCB-Dimensions (mil): 3937.01 5905.51 *
+G04 PCB-Coordinate-Origin: lower left *
+%MOIN*%
+%FSLAX25Y25*%
+%LNGBP*%
+%ADD87C,0.4331*%
+G54D87*X99409Y299213D03*
+Y417323D03*
+M02*
