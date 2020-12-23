@@ -3,7 +3,9 @@ PROJNAME = 31_POWER_SUPPLY_UNIT
 LAYOUTS = \
 	31.001.00.01.01.pcb \
 	31.002.00.01.01.pcb \
-	31.003.00.01.01.pcb
+	31.003.00.01.01.pcb \
+	31.004.00.01.01.pcb \
+	31.005.00.01.01.pcb
 
 notarget:
 	@echo "Please specify a target:"
