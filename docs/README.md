@@ -84,8 +84,8 @@ current of 500 mA for both regulated  and unregulated voltages.
 | ID | Description | Location |
 |----|-------------|----------|
 | U201 | UAA170 | front pcb |
-| U303 | LM741 | main pcb |
-| U304 | LM741 | main pcb |
+| U303 | UA741 | main pcb |
+| U304 | UA741 | main pcb |
 
 ### Connectors.
 
