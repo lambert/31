@@ -27,14 +27,17 @@ The .
 | 009 | Switch |
 | 010 | Operational Amplifier (differential) |
 | 011 | Operational Amplifier (gain) |
-| 012 | Display logic |
+| 012 | Analog to binary logic |
+| 013 | Display logic |
 
 ### Modes of operation.
 
 | ID  | Description |
 |-----|-------------|
-| 001 | Provide an unregulated voltage. |
-| 002 | Provide a regulated voltages. |
+| 001 | Provide a regulated voltage of +15 V DC on connector P300 pin 31 |
+| 002 | Provide a regulated voltage of -15 V DC on connector P300 pin 29 |
+| 003 | Provide an unregulated voltage of +U (DC) on connector P300 pin 25 |
+| 004 | Provide an unregulated voltage of -U (DC) on connector P300 pin 26 |
 
 These modes are not mutual exclusive.
 The user has to chose a mode of operation that not exceeds a total
@@ -69,15 +72,15 @@ current of 500 mA for both regulated  and unregulated voltages.
 
 230 V AC is obtained from the back panel bus.
 
-+15 V DC/- 15 V DC is delivered to the back panel bus.
+Regulated +15 V DC/- 15 V DC is delivered to the back panel bus.
 
-+U DC / -U DC is delivered to the back panel bus.
+Unregulated +U DC / -U DC is delivered to the back panel bus.
 
 ### Protection and fail-safes.
 
-| ID | Description | Location |
-|----|-------------|----------|
-| .  | .           | main pcb |
+| ID  | Description | Location |
+|-----|-------------|----------|
+| GND | Ground | Connector P300 pin 30 (main pcb) |
 
 ### Replaceable parts.
 
