@@ -1,0 +1,27 @@
+# PcbBOM Version 1.0
+# Date: zo 03 jan 2021 11:16:11 GMT UTC
+# Author: Bert Timmerman
+# Title: 31.003.00.01.01.pcb - PCB BOM
+# Quantity, Description, Value, RefDes
+# --------------------------------------------
+4,"RES1016-635X229____0.6W","100k",R303 R306 R305 R304 
+2,"RES1016-635X229____0.6W","10k",R307 R308 
+2,"RES1016-635X229____0.6W","1 1%",R301 R302 
+6,"CAPPR750-1600X3200_CDE__SK_","1000uF/63V",C303 C307 C302 C301 C306 C308 
+1,"TR_ERA-30VA-68x57x35","(unknown)",T301 
+1,"____MAX-XY","MAX-XY",(unknown) 
+4,"DIO-520X270_Diodes_DO41_1N4004_C1A2","1N4004",D303 D304 D301 D302 
+3,"MTG370____","(unknown)",A C B 
+1,"TO220-3N____standing","L7815CV",U301 
+2,"CAPPR500-1000X1300L_CDE__SK_","100uF/35V",C304 C309 
+2,"DIPS08300","LM741",U303 U304 
+1,"RES1016-635X229____0.6W","47k",R309 
+1,"TO220-3N____standing","L7915CV",U302 
+2,"CAPPR200P-500X1100_CDE__SK_","10uF/35V",C310 C305 
+1,"MTG370-700____","(unknown)",GND 
+2,"HSINK__Conrad_188751-02_88x35x37_modified.fp","Conrad 188751-02",HS301 HS302 
+4,"PIN____","(unknown)",p2 (unknown) (unknown) p1 
+1,"CON-DIN41617-31N_Assmann_A-31-S1_DIN41617","A-31-S1",P300 
+1,"____MIN-XY","MIN-XY",(unknown) 
+1,"CON-SIL-254P-31N","31 pin SIL connector",J300 
+1,"TRIM_Piher_PT-10LV_PT-10_","5k",R310 

@@ -1,0 +1,9 @@
+# PcbBOM Version 1.0
+# Date: zo 03 jan 2021 11:16:11 GMT UTC
+# Author: Bert Timmerman
+# Title: 31.004.00.01.01.pcb - PCB BOM
+# Quantity, Description, Value, RefDes
+# --------------------------------------------
+6,"MTG370-700____.fp","unknown",D C F E B A 
+1,"CC-BY-SA.fp","(unknown)",cc 
+1,"NL_contour_filled_150x188.fp","(unknown)",nl 

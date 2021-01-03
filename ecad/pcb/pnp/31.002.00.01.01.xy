@@ -1,0 +1,36 @@
+# PcbXY Version 1.0
+# Date: zo 03 jan 2021 11:16:11 GMT UTC
+# Author: Bert Timmerman
+# Title: 31.002.00.01.01 - PCB X-Y
+# RefDes, Description, Value, X, Y, rotation, top/bottom
+# X,Y in mm.  rotation in degrees.
+# --------------------------------------------
+S202,"SW_Apem_5547A__.fp","Apem 5547A",13.34,56.52,90,top
+S201,"SW_Apem_5546A__.fp","Apem 5546A",13.34,85.72,90,top
+p3,"PIN____.fp","unknown",12.70,12.70,0,top
+p4,"PIN____.fp","unknown",35.56,12.70,0,top
+p1,"PIN____.fp","unknown",12.70,99.69,0,top
+p2,"PIN____.fp","unknown",35.56,99.69,0,top
+J201,"CON-SIL-254P-31N____.fp","unknown",6.35,55.88,0,top
+B,"MTG370____.fp","unknown",22.86,15.88,0,top
+A,"MTG370____.fp","unknown",22.86,96.52,0,top
+U201,"DIPS16300____.fp","UAA170",17.78,31.11,180,top
+R202,"RES1016-635X229____0.6W.fp","1k",10.16,27.30,270,top
+R201,"RES1016-635X229____0.6W.fp","15k",13.97,17.78,0,top
+D216,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,94.61,90,top
+D215,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,89.53,90,top
+D214,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,84.45,90,top
+D213,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,79.38,90,top
+D212,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,74.30,90,top
+D211,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,69.22,90,top
+D210,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,64.14,90,top
+D209,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,59.05,90,top
+D208,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,53.98,90,top
+D207,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,48.90,90,top
+D206,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,43.81,90,top
+D205,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,38.73,90,top
+D204,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,33.66,90,top
+D203,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,28.57,90,top
+D202,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,23.50,90,top
+D201,"LED254-500X250_Temic_TLSR-5100__red.fp","RED",35.56,18.41,90,top
+TP201,"CON-TP_Keystone_5000_compact_red.fp","unknown",25.40,26.04,0,top

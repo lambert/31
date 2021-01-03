@@ -1,0 +1,10 @@
+# PcbBOM Version 1.0
+# Date: zo 03 jan 2021 11:16:11 GMT UTC
+# Author: Bert Timmerman
+# Title: 31.001.00.01.01.pcb - PCB BOM
+# Quantity, Description, Value, RefDes
+# --------------------------------------------
+2,"MTG650____pad.fp","unknown",S102 S101 
+1,"CC-BY-SA.fp","(unknown)",CC 
+2,"MTG370____.fp","unknown",B A 
+4,"MTG280-500____.fp","unknown",p1 p2 p3 p4 
