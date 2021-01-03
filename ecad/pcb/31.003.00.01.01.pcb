@@ -1,4 +1,4 @@
-# release: pcb-gtk 4.2.2
+# release: pcb 4.2.2
 
 # To read pcb files, the pcb version (or the git source date) must be >= the file version
 FileVersion[20091103]
@@ -1349,7 +1349,7 @@ Element["lock" "HSINK__Conrad_188751-02_88x35x37_modified.fp" "HS302" "Conrad 18
 
 	)
 
-Element["lock" "TRIM_Piher_PT-10LV_PT-10_" "R311" "5k" 975.00mil 3450.00mil -325.00mil 75.00mil 1 100 ""]
+Element["lock" "TRIM_Piher_PT-10LV_PT-10_" "R310" "5k" 975.00mil 3450.00mil -325.00mil 75.00mil 1 100 ""]
 (
 	Pin[-196.85mil -98.42mil 72.00mil 20.00mil 78.00mil 52.00mil "A" "1" "square,lock,edge2"]
 	Pin[-196.85mil 98.43mil 72.00mil 20.00mil 78.00mil 52.00mil "E" "2" "lock,edge2"]
