@@ -193,7 +193,7 @@ page=01
 T 11000 100 5 10 1 1 0 0 1
 pages=01
 T 13500 400 5 10 1 1 0 0 1
-revision=20210103
+revision=20220410
 T 13500 100 5 10 1 1 0 0 1
 author=Bert Timmerman
 L 13400 3300 11300 3300 3 0 0 0 -1 -1
@@ -230,31 +230,33 @@ C 0 0 0 0 0 A3-sheet.sym
 T 15400 1700 15 10 0 0 0 0 1
 device=none
 }
-C 7800 1100 1 0 0 EMBEDDEDCC-BY-SA.sym
+C 11500 3700 1 0 0 EMBEDDEDCC-BY-SA.sym
 [
-B 7900 1200 800 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
-T 8300 1300 9 8 1 0 0 4 1
+B 11600 3800 800 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 12000 3900 9 8 1 0 0 4 1
 CC BY-SA
-T 7900 3300 5 10 0 0 0 0 1
+T 11600 5900 5 10 0 0 0 0 1
 author=Bert Timmerman
-T 7900 3100 5 10 0 0 0 0 1
+T 11600 5700 5 10 0 0 0 0 1
 description=Input label
-T 7900 2900 5 10 0 0 0 0 1
+T 11600 5500 5 10 0 0 0 0 1
 dist-license=CC BY-SA
-T 7900 2700 5 10 0 0 0 0 1
+T 11600 5300 5 10 0 0 0 0 1
 use-license=unlimited
-T 7900 2100 5 10 0 0 0 0 1
+T 11600 4700 5 10 0 0 0 0 1
 symversion=20180915
-T 7900 2500 5 10 0 0 0 0 1
+T 11600 5100 5 10 0 0 0 0 1
 graphical=1
-T 7900 2300 5 10 0 0 0 0 1
+T 11600 4900 5 10 0 0 0 0 1
 footprint=CC-BY-SA.fp
 ]
 {
-T 7900 2100 5 10 0 0 0 0 1
+T 11600 4700 5 10 0 0 0 0 1
 symversion=20180915
-T 7900 2300 5 10 0 0 0 0 1
+T 11600 4900 5 10 0 0 0 0 1
 footprint=CC-BY-SA.fp
-T 7800 1100 5 10 0 0 0 0 1
+T 11500 3700 5 10 0 0 0 0 1
 refdes=cc
 }
+G 7500 960 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png

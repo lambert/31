@@ -6,6 +6,8 @@ DESIGN = \
 	31.000.00.01.02.sch
 
 DFS = \
+	31.000.00.02.01.sch \
+	31.000.00.02.11.sch
 
 DFM = \
 	31.001.00.01.01.sch \
@@ -74,7 +76,7 @@ pcb: $(DFM)
 	done;
 
 printpdf: $(PROJNAME).ps
-	ps2pdf -dOptimize=true -dUseFlateCompression=true -sPAPERSIZE=a4 $< $(PROJNAME)-schematics.pdf
+	ps2pdf -dOptimize=true -dUseFlateCompression=true -sPAPERSIZE=a3 $< $(PROJNAME)-schematics.pdf
 	mv $(PROJNAME)-schematics.pdf ../../docs
 	mv $(PROJNAME).ps plotfiles
 

@@ -6,7 +6,7 @@ page=01
 T 11000 100 5 10 1 1 0 0 1
 pages=01
 T 13500 400 5 10 1 1 0 0 1
-revision=20210103
+revision=20220410
 T 13500 100 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 9500 700 5 10 1 1 0 0 1
@@ -18,60 +18,60 @@ description=Power Supply Unit - Shielding PCB (DFM)
 B 7500 4200 7300 3200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 7500 7500 9 10 1 0 0 0 1
 Mounting holes:
-C 7800 1100 1 0 0 EMBEDDEDCC-BY-SA.sym
+C 8000 6500 1 0 0 EMBEDDEDCC-BY-SA.sym
 [
-B 7900 1200 800 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
-T 8300 1300 9 8 1 0 0 4 1
+B 8100 6600 800 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 8500 6700 9 8 1 0 0 4 1
 CC BY-SA
-T 7900 3300 5 10 0 0 0 0 1
+T 8100 8700 5 10 0 0 0 0 1
 author=Bert Timmerman
-T 7900 3100 5 10 0 0 0 0 1
+T 8100 8500 5 10 0 0 0 0 1
 description=Input label
-T 7900 2900 5 10 0 0 0 0 1
+T 8100 8300 5 10 0 0 0 0 1
 dist-license=CC BY-SA
-T 7900 2700 5 10 0 0 0 0 1
+T 8100 8100 5 10 0 0 0 0 1
 use-license=unlimited
-T 7900 2100 5 10 0 0 0 0 1
+T 8100 7500 5 10 0 0 0 0 1
 symversion=20180915
-T 7900 2500 5 10 0 0 0 0 1
+T 8100 7900 5 10 0 0 0 0 1
 graphical=1
-T 7900 2300 5 10 0 0 0 0 1
+T 8100 7700 5 10 0 0 0 0 1
 footprint=CC-BY-SA.fp
 ]
 {
-T 7900 2100 5 10 0 0 0 0 1
+T 8100 7500 5 10 0 0 0 0 1
 symversion=20180915
-T 7900 2300 5 10 0 0 0 0 1
+T 8100 7700 5 10 0 0 0 0 1
 footprint=CC-BY-SA.fp
-T 7800 1100 5 10 0 0 0 0 1
+T 8000 6500 5 10 0 0 0 0 1
 refdes=cc
 }
-C 7800 800 1 0 0 EMBEDDEDMade_in_NL.sym
+C 8000 6200 1 0 0 EMBEDDEDMade_in_NL.sym
 [
-B 7900 900 800 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
-T 8300 1000 9 8 1 0 0 4 1
+B 8100 6300 800 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 8500 6400 9 8 1 0 0 4 1
 Made in NL
-T 7900 3000 5 10 0 0 0 0 1
+T 8100 8400 5 10 0 0 0 0 1
 author=Bert Timmerman
-T 7900 2800 5 10 0 0 0 0 1
+T 8100 8200 5 10 0 0 0 0 1
 description=Made in NL
-T 7900 2600 5 10 0 0 0 0 1
+T 8100 8000 5 10 0 0 0 0 1
 dist-license=GPL
-T 7900 2400 5 10 0 0 0 0 1
+T 8100 7800 5 10 0 0 0 0 1
 use-license=unlimited
-T 7900 1800 5 10 0 0 0 0 1
+T 8100 7200 5 10 0 0 0 0 1
 symversion=20180915
-T 7900 2200 5 10 0 0 0 0 1
+T 8100 7600 5 10 0 0 0 0 1
 graphical=1
-T 7900 2000 5 10 0 0 0 0 1
+T 8100 7400 5 10 0 0 0 0 1
 footprint=NL_contour_filled_150x188.fp
 ]
 {
-T 7900 1800 5 10 0 0 0 0 1
+T 8100 7200 5 10 0 0 0 0 1
 symversion=20180915
-T 7900 2000 5 10 0 0 0 0 1
+T 8100 7400 5 10 0 0 0 0 1
 footprint=NL_contour_filled_150x188.fp
-T 7800 800 5 10 0 0 0 0 1
+T 8000 6200 5 10 0 0 0 0 1
 refdes=nl
 }
 C 7900 6700 1 90 0 EMBEDDEDPIN.sym
@@ -366,3 +366,5 @@ device=none
 T 15400 1700 15 10 0 0 0 0 1
 device=none
 }
+G 7500 960 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png

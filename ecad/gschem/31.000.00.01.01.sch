@@ -8,7 +8,7 @@ page=1
 T 27900 300 5 10 1 1 0 0 1
 pages=1
 T 30300 600 5 10 1 1 0 0 1
-revision=20210103
+revision=20220410
 T 30300 300 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 26400 900 5 10 1 1 0 0 1
@@ -372,3 +372,5 @@ T 12400 11100 5 10 1 1 0 6 1
 out=U
 }
 N 17500 12000 17900 12000 4
+G 24300 1160 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png

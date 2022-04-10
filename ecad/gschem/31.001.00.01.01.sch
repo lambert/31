@@ -12,7 +12,7 @@ page=01
 T 11500 600 5 10 1 1 0 0 1
 pages=01
 T 13900 900 5 10 1 1 0 0 1
-revision=20210103
+revision=20220410
 T 13900 600 5 10 1 1 0 0 1
 author=Bert Timmerman
 T 10000 1400 5 10 1 1 0 0 1
@@ -348,25 +348,27 @@ T 12700 3900 5 10 0 0 180 0 1
 footprint=MTG650____pad.fp
 }
 N 12700 6400 12700 3000 4
-C 8300 1600 1 0 0 EMBEDDEDCC-BY-SA.sym
+C 12200 3600 1 0 0 EMBEDDEDCC-BY-SA.sym
 [
-T 8400 2500 5 10 0 0 0 0 1
+T 12300 4500 5 10 0 0 0 0 1
 graphical=1
-B 8380 1700 820 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
-T 8800 1800 9 8 1 0 0 4 1
+B 12280 3700 820 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 12700 3800 9 8 1 0 0 4 1
 CC BY-SA
-T 8400 2300 5 10 0 0 0 0 1
+T 12300 4300 5 10 0 0 0 0 1
 footprint=CC-BY-SA.fp
-T 8400 2100 5 10 0 0 0 0 1
+T 12300 4100 5 10 0 0 0 0 1
 description=CC BY-SA copyright notice
-T 8400 2900 5 10 0 0 0 0 1
+T 12300 4900 5 10 0 0 0 0 1
 symversion=20210103
-T 8400 2700 5 10 0 0 0 0 1
+T 12300 4700 5 10 0 0 0 0 1
 author=Bert Timmerman <bert.timmerman@xs4all.nl>
 ]
 {
-T 8400 2600 5 10 0 0 0 0 1
+T 12300 4600 5 10 0 0 0 0 1
 symversion=20180915
-T 8400 2800 5 10 0 0 0 0 1
+T 12300 4800 5 10 0 0 0 0 1
 footprint=CC-BY-SA.fp
 }
+G 8000 1460 1300 454 0 0 0
+/home/bert/workspace/git/projects/31_Power_Supply_Unit/cc-by-sa.png
