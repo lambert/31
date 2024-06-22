@@ -1094,15 +1094,15 @@ page=1
 T 27900 300 5 10 1 1 0 0 1
 pages=1
 T 30300 600 5 10 1 1 0 0 1
-revision=20220410
+revision=20240622
 T 30300 300 5 10 1 1 0 0 1
 author=Bert Timmerman
-T 26400 900 5 10 1 1 0 0 1
-device=PSU
-T 26400 1100 5 10 1 1 0 0 1
-comment=schematic
 T 26400 1300 5 10 1 1 0 0 1
-description=Power Supply Unit - Main PCB (DFM)
+device=PSU
+T 26400 900 5 10 1 1 0 0 1
+comment=Schematic
+T 26400 1100 5 10 1 1 0 0 1
+description=Main PCB (DFM)
 }
 C 17500 12300 1 0 0 EMBEDDEDLM78xx.sym
 [
@@ -1124,18 +1124,18 @@ IN
 P 18300 12700 18500 12700 1 0 1
 {
 T 18350 12750 5 10 1 1 0 0 1
-pinnumber=2
+pinnumber=3
 T 18350 12750 5 10 0 0 0 0 1
-pinseq=2
+pinseq=3
 }
 T 18300 12550 9 8 1 0 0 0 1
 OUT
 P 18000 12500 18000 12300 1 0 1
 {
 T 17850 12350 5 10 1 1 0 0 1
-pinnumber=3
+pinnumber=2
 T 17850 12350 5 10 0 0 0 0 1
-pinseq=3
+pinseq=2
 }
 T 18050 12350 9 8 1 0 0 0 1
 GND
@@ -3212,9 +3212,9 @@ refdes=U?
 P 18000 8300 17800 8300 1 0 1
 {
 T 17900 8350 5 10 1 1 0 0 1
-pinnumber=3
+pinnumber=2
 T 17900 8350 5 10 0 0 0 0 1
-pinseq=3
+pinseq=2
 T 18000 8300 5 10 0 0 0 0 1
 pintype=in
 }
@@ -3223,9 +3223,9 @@ IN
 P 18600 8300 18800 8300 1 0 1
 {
 T 18650 8350 5 10 1 1 0 0 1
-pinnumber=2
+pinnumber=3
 T 18650 8350 5 10 0 0 0 0 1
-pinseq=2
+pinseq=3
 }
 T 18600 8150 9 8 1 0 0 0 1
 OUT

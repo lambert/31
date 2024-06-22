@@ -1569,15 +1569,15 @@ page=1
 T 27900 300 5 10 1 1 0 0 1
 pages=1
 T 30300 600 5 10 1 1 0 0 1
-revision=20220410
+revision=20240621
 T 30300 300 5 10 1 1 0 0 1
 author=Bert Timmerman
-T 26400 900 5 10 1 1 0 0 1
-device=PSU
-T 26400 1100 5 10 1 1 0 0 1
-comment=schematic
 T 26400 1300 5 10 1 1 0 0 1
-description=Power Supply Unit
+device=PSU
+T 26400 900 5 10 1 1 0 0 1
+comment=Schematic
+T 26400 1100 5 10 1 1 0 0 1
+description=Overall
 }
 C 14600 12300 1 0 0 EMBEDDEDLM78xx.sym
 [
@@ -1599,18 +1599,18 @@ IN
 P 15400 12700 15600 12700 1 0 1
 {
 T 15450 12750 5 10 1 1 0 0 1
-pinnumber=2
+pinnumber=3
 T 15450 12750 5 10 0 0 0 0 1
-pinseq=2
+pinseq=3
 }
 T 15400 12550 9 8 1 0 0 0 1
 OUT
 P 15100 12500 15100 12300 1 0 1
 {
 T 14950 12350 5 10 1 1 0 0 1
-pinnumber=3
+pinnumber=2
 T 14950 12350 5 10 0 0 0 0 1
-pinseq=3
+pinseq=2
 }
 T 15150 12350 9 8 1 0 0 0 1
 GND
@@ -4101,9 +4101,9 @@ refdes=U?
 P 14800 8300 14600 8300 1 0 1
 {
 T 14700 8350 5 10 1 1 0 0 1
-pinnumber=3
+pinnumber=2
 T 14700 8350 5 10 0 0 0 0 1
-pinseq=3
+pinseq=2
 T 14800 8300 5 10 0 0 0 0 1
 pintype=in
 }
@@ -4112,9 +4112,9 @@ IN
 P 15400 8300 15600 8300 1 0 1
 {
 T 15450 8350 5 10 1 1 0 0 1
-pinnumber=2
+pinnumber=3
 T 15450 8350 5 10 0 0 0 0 1
-pinseq=2
+pinseq=3
 }
 T 15400 8150 9 8 1 0 0 0 1
 OUT

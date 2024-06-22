@@ -8,15 +8,15 @@ page=1
 T 27900 300 5 10 1 1 0 0 1
 pages=1
 T 30300 600 5 10 1 1 0 0 1
-revision=20220410
+revision=20240622
 T 30300 300 5 10 1 1 0 0 1
 author=Bert Timmerman
-T 26400 900 5 10 1 1 0 0 1
-device=PSU
-T 26400 1100 5 10 1 1 0 0 1
-comment=block diagram
 T 26400 1300 5 10 1 1 0 0 1
-description=Power Supply Unit
+device=PSU
+T 26400 900 5 10 1 1 0 0 1
+comment=Block diagram
+T 26400 1100 5 10 1 1 0 0 1
+description=Overall
 }
 C 8200 12200 1 0 0 EMBEDDEDac-dc.sym
 [

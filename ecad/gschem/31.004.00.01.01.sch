@@ -6,15 +6,15 @@ page=01
 T 11000 100 5 10 1 1 0 0 1
 pages=01
 T 13500 400 5 10 1 1 0 0 1
-revision=20220410
+revision=20240622
 T 13500 100 5 10 1 1 0 0 1
 author=Bert Timmerman
-T 9500 700 5 10 1 1 0 0 1
-device=PSU
-T 9500 900 5 10 1 1 0 0 1
-comment=schematic
 T 9500 1100 5 10 1 1 0 0 1
-description=Power Supply Unit - Shielding PCB (DFM)
+device=PSU
+T 9500 700 5 10 1 1 0 0 1
+comment=Schematic
+T 9500 900 5 10 1 1 0 0 1
+description=Shielding PCB (DFM)
 B 7500 4200 7300 3200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 7500 7500 9 10 1 0 0 0 1
 Mounting holes:

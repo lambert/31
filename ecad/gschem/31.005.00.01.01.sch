@@ -193,7 +193,7 @@ page=01
 T 11000 100 5 10 1 1 0 0 1
 pages=01
 T 13500 400 5 10 1 1 0 0 1
-revision=20220410
+revision=20240622
 T 13500 100 5 10 1 1 0 0 1
 author=Bert Timmerman
 L 13400 3300 11300 3300 3 0 0 0 -1 -1
@@ -219,12 +219,12 @@ T 11339 4358 5 4 0 1 90 0 1
 pintype=pwr
 }
 ]
-T 9500 700 5 10 1 1 0 0 1
-device=PSU
-T 9500 900 5 10 1 1 0 0 1
-comment=schematic
 T 9500 1100 5 10 1 1 0 0 1
-description=Power Supply Unit - Strut PCB (DFM)
+device=PSU
+T 9500 700 5 10 1 1 0 0 1
+comment=Schematic
+T 9500 900 5 10 1 1 0 0 1
+description=Strut PCB (DFM)
 C 0 0 0 0 0 A3-sheet.sym
 {
 T 15400 1700 15 10 0 0 0 0 1

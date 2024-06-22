@@ -3,7 +3,7 @@ C 500 500 0 0 0 A3-sheet.sym
 {
 T 15900 2200 5 10 0 0 0 0 1
 device=none
-T 10000 1200 5 10 1 1 0 0 1
+T 10000 1600 5 10 1 1 0 0 1
 device=PSU
 T 10000 900 5 10 1 1 0 0 1
 file=31.001.00.01.01.sch
@@ -12,13 +12,13 @@ page=01
 T 11500 600 5 10 1 1 0 0 1
 pages=01
 T 13900 900 5 10 1 1 0 0 1
-revision=20220410
+revision=20240622
 T 13900 600 5 10 1 1 0 0 1
 author=Bert Timmerman
+T 10000 1200 5 10 1 1 0 0 1
+comment=Schematic
 T 10000 1400 5 10 1 1 0 0 1
-comment=schematic
-T 10000 1600 5 10 1 1 0 0 1
-description=Power Supply Unit - Front Panel (DFM)
+description=Front panel (DFM)
 }
 B 12100 2900 1600 3600 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 C 12400 5900 1 0 0 EMBEDDEDMTG_hole.sym
